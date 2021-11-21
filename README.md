@@ -1,7 +1,6 @@
-# 이력서
+# [이력서](https://github.com/Kangsukmin/Resume/edit/master/README.md)
 
 ## 소개
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangsukmin&count_private=true&show_icons=true&theme=algolia)
 
