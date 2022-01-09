@@ -97,4 +97,4 @@ TypeScript기반의 백엔드 개발과 NLP 개발을 주로 하며, 빅데이�
 
 #### [DACON 가스에너지 분야 문서요약 모델 리더보드 3위](https://dacon.io/competitions/official/235829/leaderboard)
 
-- 가스 에너지 분야 요약 모델로, 파이썬을 통하여 
+- 가스 에너지 분야 요약 모델로, KE-T5 모델과 뉴스기사를 기반으로 성적을 냈습니다.
