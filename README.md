@@ -27,8 +27,8 @@ TypeScript기반의 백엔드 개발과 NLP 개발을 주로 하며, 빅데이�
 테스트코드를 중요시하며, 서비스를 할 정도의 기술을 가지고 있습니다.
 
 - Express.js
-- NestJS
-- MySQL
+- Django
+- MySQL, SQLite3
 - MongoDB
 
 ### Deep Learning
@@ -50,6 +50,7 @@ TypeScript기반의 백엔드 개발과 NLP 개발을 주로 하며, 빅데이�
 - 2020: 네이버 부스트캠프 Web 수료
 - 2021: 서울과학기술대학교 컴퓨터공학과 졸업
 - 2021: 부스트캠프 AI 수료
+- 2022: 나인티나인 근무
 
 
 ## 프로젝트 소개
