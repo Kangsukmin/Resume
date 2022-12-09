@@ -4,8 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangsukmin&count_private=true&show_icons=true&theme=algolia)
 
-> 혼자 설 수 있는 개발자를 목표로 하고 있습니다.
-
 TypeScript기반의 백엔드 개발과 NLP 개발을 주로 하며, 빅데이터 분야로 영역을 넓혀가고 있습니다.
 
 - 🪡 [Github](https://github.com/Kangsukmin)
