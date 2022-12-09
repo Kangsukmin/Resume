@@ -2,7 +2,7 @@
 
 ## 소개
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangsukmin&count_private=true&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbert&count_private=true&show_icons=true&theme=algolia)
 
 TypeScript기반의 백엔드 개발과 NLP 개발을 주로 하며, 빅데이터 분야로 영역을 넓혀가고 있습니다.
 
