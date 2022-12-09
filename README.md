@@ -73,24 +73,25 @@ TypeScript기반의 백엔드 개발과 NLP 개발을 주로 하며, 빅데이�
 ### AI 분야
 
 #### [이미지 분류대회 - 마스크 착용여부](https://luxuriant-knee-96b.notion.site/KLUE-Wrapup-Report-bba56da7bee94ad2a9b1caecdcf22e9c)
-#### [Github](https://github.com/boostcampaitech2/image-classification-level1-17)
 
 - 이미지를 통해 마스크 착용여부, 나이, 성별을 판단
 - 대회 형식으로 진행
 - 코로나 시대에 마스크를 제대로 착용하여 확산을 방지하고자 함
 
 #### [문장속 단어 관계 파악](https://github.com/boostcampaitech2/klue-level2-nlp-01)
+##### [Github](https://github.com/boostcampaitech2/image-classification-level1-17)
 
 - 문장내 두 단어의 관계를 파악하는 자연어 처리 대회
 - 단어간 관계파악을 통해 인과관계나 추론에 응용
 
-#### [검색 기반 질의응답 모델](https://github.com/boostcampaitech2/mrc-level2-nlp-01)
+#### [검색 기반 질의응답 모델](https://luxuriant-knee-96b.notion.site/b8fea4dfcd3b49939fd4b3eb82e0db65)
+##### [Github](https://github.com/boostcampaitech2/mrc-level2-nlp-01)
 
 - 질문은 입력하면, 해당 질문과 연관된 문서를 찾고 그 안에서 답을 내주는 모델
 - 질문과 연관된 문서를 찾는 과정(Retrieval)과 질문과 문서를 통해 정답을 추출(Reader)해 내는 과정이 포함됨
 
-#### [NLP 한국어 데이터 제작](https://github.com/boostcampaitech2/data-annotation-nlp-level3-nlp-01)
-
+#### [NLP 한국어 데이터 제작](https://luxuriant-knee-96b.notion.site/c5e61a6371e049aba5b227c9b2b5c4e8)
+##### [Github](https://github.com/boostcampaitech2/data-annotation-nlp-level3-nlp-01)
 - [문장속 단어 관계 파악]에 사용된 데이터를 직접 제작하는 프로젝트
 - 모델을 훈련시키기 위한 데이터를 직접 제작하는 것을 배움
 
