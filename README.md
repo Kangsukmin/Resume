@@ -72,7 +72,7 @@ TypeScript기반의 백엔드 개발과 NLP 개발을 주로 하며, 빅데이�
 
 ### AI 분야
 
-#### [이미지 분류대회 - 마스크 착용여부]()
+#### [이미지 분류대회 - 마스크 착용여부](https://github.com/boostcampaitech2/image-classification-level1-17)
 
 - 이미지를 통해 마스크 착용여부, 나이, 성별을 판단
 - 대회 형식으로 진행
